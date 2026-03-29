@@ -1,4 +1,5 @@
 function sum(a,b){
+    console.log("hey this is the sum function");
     return a+b;
 }
 
