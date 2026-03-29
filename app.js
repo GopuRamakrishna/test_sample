@@ -4,5 +4,6 @@ function sum(a,b){
 }
 
 function substract(a,b){
+    console.log("the substraction of a and b is "+(a-b));
     return a-b;
 }
