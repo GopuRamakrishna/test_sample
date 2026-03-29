@@ -6,3 +6,4 @@ function sum(a,b){
 function substract(a,b){
     return a-b;
 }
+console.log("happy coding");
