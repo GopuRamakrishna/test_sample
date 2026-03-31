@@ -1,6 +1,6 @@
 console.log("this is a sampele JS file");
 function sum(a,b){
-    console.log("hey this is the sum function");
+    console.log("hey this is the sum function and it calculates the sum of two numbers a and b =",(a+b));
     return a+b;
     console.log("this is statement will never excute");
 }
