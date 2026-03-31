@@ -1,12 +1,1 @@
-console.log("this is a sampele JS file");
-function sum(a,b){
-    console.log("hey this is the sum function and it calculates the sum of two numbers a and b =",(a+b));
-    return a+b;
-    console.log("this is statement will never excute");
-}
-console.log("this is simple sub function");
-function substract(a,b){
-    console.log("hey this is the substract function");
-    return a-b;
-    console.log("this statement will never execute");
-}
+console.log("Hello World!");
