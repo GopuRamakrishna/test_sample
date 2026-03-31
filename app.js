@@ -1,3 +1,4 @@
+console.log("this is a sampele JS file");
 function sum(a,b){
     console.log("hey this is the sum function");
     return a+b;
