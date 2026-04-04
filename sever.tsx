@@ -1,6 +1,8 @@
-let name:string="John";
+const name:string="John";
 console.log(name);
-let age:number=30;
+const age:number=30;
 console.log(age);
 
 console.log(`My name is ${name} and I am ${age} years old.`);
+
+console.log('his age 10 yeards later will be ' + (age + 10));
