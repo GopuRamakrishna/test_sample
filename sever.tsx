@@ -9,3 +9,4 @@ console.log('his age 10 yeards later will be ' + (age + 10));
 
 console.log('his age 10 yeards ago was ' + (age - 10));
 console.log("hey,this is to test simple frontend");
+console.log("hey,this is to test simple frontend for the another project");
