@@ -9,7 +9,7 @@ console.log('his age 10 yeards later will be ' + (age + 10));
 
 console.log('his age 10 yeards ago was ' + (age - 10));
 console.log("hey,this is to test simple frontend");
-
 console.log("hey,this is to check the ML CodeBERT");
 console.log("hey,whats app codeBERT");
+console.log("this sis to test the new server");
 
